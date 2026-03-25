@@ -95,7 +95,7 @@ This enables:
 
 ---
 
-### Stage 5 — Strategic Reasoning Engine (RAG)
+### Stage 5 — Strategic Reasoning Engine (LLM)
 When a change is detected:
 
 - Previous and current versions are analyzed
